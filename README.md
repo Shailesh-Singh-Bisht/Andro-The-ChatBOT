@@ -76,10 +76,6 @@ Teach ANDRO new responses to improve its knowledge base.
 🌐 Connect with Us
 Stay connected and explore more about this innovative project:
 
-GitHub Profile
-LeetCode Profile
-🏷 Tags
-#Chatbot #Python #GUI #Innovation #JSON #DynamicLearning #Tkinter
 
 🛠 Future Enhancements
 Stay tuned for exciting updates, including:
